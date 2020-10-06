@@ -41,7 +41,6 @@ const Boton = styled(Link)`
 const PropiedadPreview = ({ propiedad }) => {
   const {
     nombre,
-    descripcion,
     imagen,
     precio,
     estacionamiento,
